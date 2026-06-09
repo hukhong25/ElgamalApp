@@ -1,4 +1,4 @@
-# Phần mềm Chữ ký số ElGamal - Nhóm 2 - HaUI
+# Phần mềm Chữ ký số ElGamal
 Ứng dụng Desktop chạy trên hệ điều hành Windows dùng để mô phỏng và thực hiện trọn vẹn quy trình tạo khóa, ký số và xác minh chữ ký số dựa trên hệ mật mã bất đối xứng **ElGamal**. Nền tảng được phát triển bằng ngôn ngữ **C#** kết hợp giao diện đồ họa **WPF** tối ưu hiệu năng trên framework **.NET 8.0**.
 
 ---
